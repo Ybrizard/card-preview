@@ -23,4 +23,4 @@ Um projeto de demonstração de **cards responsivos**, mostrando como o layout s
 ## Como usar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+   git clone https://github.com/Ybrizard/card-preview/
